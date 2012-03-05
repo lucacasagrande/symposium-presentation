@@ -1,6 +1,6 @@
-This presentation is about Careers in Free and Open Source Software built with [impress.js](http://bartaz.github.com/impress.js).
+This presentation is about the project "Montagne Aperte 2" created by SA GfosServices (http://www.montagneaperte.it). 
 
-Copyright (c) 2012 Exequiel Ceasar Navarrete
+It's created starting from Careers in Free and Open Source Software Copyright (c) 2012 Exequiel Ceasar Navarrete
 
 <small>
 MIT License
